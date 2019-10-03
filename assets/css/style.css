@@ -1,0 +1,52 @@
+.jumbotron {
+    background-image: url("../images/mountain-lighter.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: #072c2c;
+    font-weight: bolder;
+    text-align: center;
+}
+
+html body {
+    background-color: #072c2c;
+}
+
+.container {
+    width: 80%;
+    margin: auto;
+}
+
+#infoArea {
+    color: white;
+}
+
+#row2 {
+    color: white;
+}
+
+html hr {
+    border: 1px solid white;
+}
+
+#trailResults {
+    background-color:white;
+    border: groove #072c2c ;
+    border-radius: 10px;
+    color: #072c2c;
+    padding:10px;
+ }
+
+ #doggies {
+     margin: auto;
+     color: white;
+ }
+
+ #loader {
+     text-align: center;
+ }
+
+ #loader img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+ }
