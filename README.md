@@ -1,1 +1,1 @@
-# Take-A-Hike-
+# Take-A-Hike
